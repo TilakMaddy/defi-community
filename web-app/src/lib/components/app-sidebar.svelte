@@ -32,7 +32,7 @@
                 },
                 {
                     title: 'Stats',
-                    url: '#',
+                    url: '/stats',
                     icon: ChartNoAxesCombinedIcon,
                 },
             ],
@@ -42,7 +42,7 @@
             [
                 {
                     title: 'Wen Codehawk Results',
-                    url: '#',
+                    url: '/wen',
                     icon: LucideBird,
                 },
             ],
@@ -52,7 +52,7 @@
             [
                 {
                     title: 'Sponsor',
-                    url: '#',
+                    url: '/sponsor',
                     icon: CircleDollarSignIcon,
                 },
             ],

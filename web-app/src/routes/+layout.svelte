@@ -21,7 +21,7 @@
 
 <Sidebar.Provider>
     <AppSidebar />
-    <main class="w-full">
+    <main class="relative w-full select-none font-mono">
         <Sidebar.Trigger />
         {@render children?.()}
     </main>
